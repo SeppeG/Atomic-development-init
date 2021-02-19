@@ -1,0 +1,50 @@
+body {
+  font-family: Cocon;
+  color: #282828;
+  src: url("C:/Users/Seppe/AppData/Local/Microsoft/Windows/Fonts/Cocon-Regular-Font.otf") format("opentype");
+  background-color: #e90f0f;
+}
+
+.molecule {
+  margin-left: 100px;
+  margin-top: 100px;
+  width: 350px;
+  color: #ffffff;
+}
+
+.molecule h1 {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: -20px;
+}
+
+.molecule h2 {
+  font-size: 28px;
+}
+
+.molecule p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+}
+
+.molecule .button_red {
+  width: 100px;
+  height: 40px;
+  border: 2px solid #ffffff;
+  background-color: #e90f0f;
+  color: #ffffff;
+  border-radius: 25px;
+  text-align: center;
+  line-height: 2.8;
+  font-family: Cocon;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.molecule .button_red:hover {
+  background-color: #ffffff;
+  color: #e90f0f;
+}
+/*# sourceMappingURL=style.css.map */

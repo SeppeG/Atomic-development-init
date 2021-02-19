@@ -5,9 +5,14 @@ body {
   background-color: #e90f0f;
 }
 
+img {
+  float: left;
+  width: 520px;
+}
+
 .molecule {
-  margin-left: 100px;
-  margin-top: 100px;
+  float: left;
+  margin-left: 150px;
   width: 350px;
   color: #ffffff;
 }

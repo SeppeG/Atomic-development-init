@@ -4,12 +4,6 @@ body {
   src: url("C:/Users/Seppe/AppData/Local/Microsoft/Windows/Fonts/Cocon-Regular-Font.otf") format("opentype");
 }
 
-p {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  color: #282828;
-}
-
 .title_test h1 {
   font-size: 46px;
   text-align: center;
@@ -22,9 +16,5 @@ p {
   margin-top: -15px;
   margin-bottom: 30px;
   width: 50px;
-}
-
-.title_test p {
-  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */
